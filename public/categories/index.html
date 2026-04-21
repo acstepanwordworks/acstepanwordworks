@@ -65,7 +65,24 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script>
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+    --navy: #1a2744;
+    --steel: #4a7fa5;
+    --cream: #f7f5f0;
+    --warm-white: #fdfcfa;
+    --rule: #ddd9d2;
+}
+body { font-family: 'DM Sans', sans-serif; background: var(--warm-white); }
+h1, h2, h3 { font-family: 'Playfair Display', serif; color: var(--navy); font-weight: 400; }
+.site-name a { font-weight: 500; letter-spacing: 0.08em; color: var(--navy) !important; text-transform: uppercase; font-size: 14px; }
+nav a { font-size: 13px; color: #4a4a4a !important; }
+nav a:hover { color: var(--navy) !important; }
+a { color: var(--steel) !important; }
+.home-info { background: var(--cream); border-left: 3px solid var(--steel); padding: 2rem 2.5rem; }
+</style>
 </head>
 <body class="list" id="top">
     <header class="header">

@@ -10,7 +10,8 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-
+  customCSS = ['css/custom.css']
+  
 [menu]
   [[menu.main]]
     name = 'About'
