@@ -1,0 +1,34 @@
+baseURL = 'https://acstepanwordworks.org/'
+languageCode = 'en-us'
+title = 'AC Stepan WordWorks'
+theme = 'PaperMod'
+
+[params]
+  author = 'Anne Stepan'
+  description = 'Senior advisory at the intersection of language, AI, and regulation.'
+  homeInfoParams = {Title = 'Language as a system. Risk as a design problem.', Content = 'Senior-level advisory for organizations operating in high-risk, multilingual environments.'}
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 1
+  [[menu.main]]
+    name = 'Services'
+    url = '/services/'
+    weight = 2
+  [[menu.main]]
+    name = 'Resources'
+    url = '/resources/'
+    weight = 3
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 4
+  [[menu.main]]
+    name = 'Writing'
+    url = '/posts/'
+    weight = 5

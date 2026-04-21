@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AC Stepan WordWorks</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AC Stepan WordWorks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 13:23:54 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;the-linguist&#34;&gt;The Linguist&lt;/h2&gt;
+&lt;p&gt;My academic training in Slavic linguistics gave me something that proved essential throughout a career in national security: an analytical framework for how language actually works — not just what it says, but how it encodes meaning, fails across cultures, and shapes thought. A PhD is a long way of learning to ask better questions, and those questions have followed me everywhere.&lt;/p&gt;
+&lt;h2 id=&#34;the-practitioner&#34;&gt;The Practitioner&lt;/h2&gt;
+&lt;p&gt;Twenty-one years at the Department of Defense — most recently at the Defense Intelligence Senior Level — gave me a ground-level education in what linguistic failure actually costs. I worked at the intersection of language, intelligence, and AI/ML in environments where imprecision isn&amp;rsquo;t an abstract problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;lets-talk&#34;&gt;Let&amp;rsquo;s Talk&lt;/h2&gt;
+&lt;p&gt;Every engagement starts with a conversation. If you&amp;rsquo;re navigating a language governance challenge, deploying AI in a regulated or multilingual environment, or simply not sure whether you have a problem worth solving — that conversation is a good place to start.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:acstepanwordworks@gmail.com&#34;&gt;acstepanwordworks@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/company/ac-stepan-wordworks&#34;&gt;AC Stepan WordWorks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anne Stepan is the Principal Consultant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>&lt;h2 id=&#34;academic-work&#34;&gt;Academic Work&lt;/h2&gt;
+&lt;p&gt;My PhD dissertation in Slavic linguistics is available here for download. &lt;em&gt;(Coming soon)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
+&lt;p&gt;Essays and blog posts on language, AI governance, Czech heritage, and the places they intersect. &lt;em&gt;(Coming soon)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;language-learning-resources&#34;&gt;Language Learning Resources&lt;/h2&gt;
+&lt;p&gt;Curated resources for Czech and other Slavic languages — with notes on what actually works. &lt;em&gt;(Coming soon)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ai--language-tools&#34;&gt;AI &amp;amp; Language Tools&lt;/h2&gt;
+&lt;p&gt;An annotated list of tools worth knowing, and their limitations. &lt;em&gt;(Coming soon)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;texas-czech-legacy-project&#34;&gt;Texas Czech Legacy Project&lt;/h2&gt;
+&lt;p&gt;I volunteer with the Texas Czech Legacy Project at UT Austin, which uses AI-assisted transcription to preserve recordings of a dying Czech dialect spoken by immigrant communities in rural Texas — continuing a family legacy of language preservation that traces back to my great-grandfather Jan Štěpán, who emigrated from Bohemia in 1889.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;language--ai-risk-assessment&#34;&gt;Language &amp;amp; AI Risk Assessment&lt;/h2&gt;
+&lt;p&gt;A time-bound diagnostic that surfaces where language workflows, AI usage, and governance structures create risk — before that risk reaches the field or public domain. Delivers an executive-ready risk map with prioritized recommendations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Engagement: 2–4 weeks · Fixed scope&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;senior-language-advisory--ai&#34;&gt;Senior Language Advisory &amp;amp; AI&lt;/h2&gt;
+&lt;p&gt;An ongoing advisory relationship providing expert judgment on high-stakes language decisions, AI usage boundaries, and regulatory alignment — without owning execution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;This is where my writing will live — essays and posts on language, AI governance, Czech heritage, and the places they intersect.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
