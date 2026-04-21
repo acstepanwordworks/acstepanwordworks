@@ -1,4 +1,4 @@
-baseURL = 'https://acstepanwordworks.org/'
+baseURL = 'https://acstepanwordworks.github.io/acstepanwordworks/'
 languageCode = 'en-us'
 title = 'AC Stepan WordWorks'
 theme = 'PaperMod'

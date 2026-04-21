@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/about/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/contact/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/resources/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/services/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/posts/first-post/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/posts/</loc>
     <lastmod>2026-04-20T13:23:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/acstepanwordworks/tags/</loc>
   </url>
 </urlset>

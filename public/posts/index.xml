@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Writing on AC Stepan WordWorks</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/acstepanwordworks/posts/</link>
     <description>Recent content in Writing on AC Stepan WordWorks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Apr 2026 13:23:54 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/acstepanwordworks/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/acstepanwordworks/posts/first-post/</link>
       <pubDate>Mon, 20 Apr 2026 13:23:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://localhost:1313/acstepanwordworks/posts/first-post/</guid>
       <description>&lt;p&gt;This is where my writing will live — essays and posts on language, AI governance, Czech heritage, and the places they intersect.&lt;/p&gt;</description>
     </item>
   </channel>
