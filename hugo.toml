@@ -1,4 +1,4 @@
-baseURL = 'https://acstepanwordworks.github.io/acstepanwordworks/'
+baseURL = 'https://acstepanwordworks.org'
 languageCode = 'en-us'
 title = 'AC Stepan WordWorks'
 theme = 'PaperMod'
@@ -11,7 +11,7 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   customCSS = ['css/custom.css']
-  
+
 [menu]
   [[menu.main]]
     name = 'About'
