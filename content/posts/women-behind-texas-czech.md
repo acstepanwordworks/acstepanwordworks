@@ -1,7 +1,7 @@
 +++
-date = '2026-04-22T11:08:04-04:00'
-draft = true
-title = 'Women Behind Texas Czech'
+date = '2026-03-17T14:52:00-04:00'
+draft = false
+title = 'The Women Behind Texas Czech Preservation: Dr. Svatava Pírková Jakobson and Dr. Lida Cope'
 +++
 
 ![Dr. Svatava Pírková Jakobson and Dr. Lida Cope](/images/tx-czech-women-2.png)
