@@ -33,3 +33,8 @@ theme = 'PaperMod'
     name = 'Writing'
     url = '/posts/'
     weight = 5
+
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
