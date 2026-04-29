@@ -30,3 +30,7 @@ Structured delivery of governance frameworks, workflow redesign, or crisis/polic
 - Organizations deploying AI at scale who need someone who understands its linguistic failure modes
 - Leaders navigating regulatory environments where terminology and precision affect compliance
 - International or multilateral programs where inconsistent language creates operational friction
+
+---
+
+<a href="/images/ac-stepan-wordworks-slick-sheet.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1a2744;color:#fff;padding:12px 24px;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;text-decoration:none;">Download Services Overview →</a>
