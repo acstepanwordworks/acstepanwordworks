@@ -7,6 +7,9 @@ title = 'About'
 <div style="float:right;margin:0 0 2rem 3rem;max-width:280px;">
   <img src="/images/ACStepanWordWorks_translator_4.jpeg" alt="Anne Stepan" style="width:100%;border-radius:4px;">
   <p style="font-size:12px;color:#7a7a7a;text-align:center;margin-top:8px;letter-spacing:0.06em;text-transform:uppercase;">Anne Stepan · Principal Consultant</p>
+<p style="font-size:13px;text-align:center;margin-top:6px;">
+  <a href="https://www.linkedin.com/in/anne-stepan-ph-d-502005224" target="_blank" rel="noopener noreferrer" style="color:#4a7fa5;">Connect on LinkedIn →</a>
+</p>
 </div>
 
 ## The Linguist

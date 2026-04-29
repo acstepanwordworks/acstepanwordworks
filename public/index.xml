@@ -16,6 +16,9 @@
       <description>&lt;div style=&#34;float:right;margin:0 0 2rem 3rem;max-width:280px;&#34;&gt;
   &lt;img src=&#34;http://localhost:1313/images/ACStepanWordWorks_translator_4.jpeg&#34; alt=&#34;Anne Stepan&#34; style=&#34;width:100%;border-radius:4px;&#34;&gt;
   &lt;p style=&#34;font-size:12px;color:#7a7a7a;text-align:center;margin-top:8px;letter-spacing:0.06em;text-transform:uppercase;&#34;&gt;Anne Stepan · Principal Consultant&lt;/p&gt;
+&lt;p style=&#34;font-size:13px;text-align:center;margin-top:6px;&#34;&gt;
+  &lt;a href=&#34;https://www.linkedin.com/in/anne-stepan-ph-d-502005224&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;color:#4a7fa5;&#34;&gt;Connect on LinkedIn →&lt;/a&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;the-linguist&#34;&gt;The Linguist&lt;/h2&gt;
 &lt;p&gt;A PhD is a lot of things. It&amp;rsquo;s a lot of work. It&amp;rsquo;s a lot of &amp;ldquo;why am I doing this again?&amp;rdquo; And it isn&amp;rsquo;t just a credential — it&amp;rsquo;s a way of seeing. Mine trained me to find patterns in language at the level of cognition: how speakers make choices, what those choices reveal, and what gets lost when the analysis is wrong.&lt;/p&gt;</description>
@@ -27,7 +30,7 @@
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;lets-talk&#34;&gt;Let&amp;rsquo;s Talk&lt;/h2&gt;
 &lt;p&gt;Every engagement starts with a conversation. If you&amp;rsquo;re navigating a language governance challenge, deploying AI in a regulated or multilingual environment, or simply not sure whether you have a problem worth solving — that conversation is a good place to start.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:acstepanwordworks@gmail.com&#34;&gt;acstepanwordworks@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:acstepanwordworks@gmail.com&#34;&gt;&lt;a href=&#34;mailto:acstepanwordworks@gmail.com&#34;&gt;acstepanwordworks@gmail.com&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/company/ac-stepan-wordworks&#34;&gt;AC Stepan WordWorks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Anne Stepan is the Principal Consultant.&lt;/p&gt;</description>
     </item>

@@ -8,7 +8,7 @@ title = 'Contact'
 
 Every engagement starts with a conversation. If you're navigating a language governance challenge, deploying AI in a regulated or multilingual environment, or simply not sure whether you have a problem worth solving — that conversation is a good place to start.
 
-**Email:** acstepanwordworks@gmail.com
+**Email:** <a href="mailto:acstepanwordworks@gmail.com">acstepanwordworks@gmail.com</a>
 
 **LinkedIn:** [AC Stepan WordWorks](https://linkedin.com/company/ac-stepan-wordworks)
 
