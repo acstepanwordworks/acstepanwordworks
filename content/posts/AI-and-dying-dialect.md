@@ -1,6 +1,6 @@
 +++
 date = '2026-04-29T10:43:00-04:00'
-draft = true
+draft = false
 title = 'What Happens When You Point AI at a Dying Dialect?'
 +++
 
