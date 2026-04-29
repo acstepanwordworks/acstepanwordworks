@@ -4,6 +4,11 @@ draft = false
 title = 'About'
 +++
 
+<div style="float:right;margin:0 0 2rem 3rem;max-width:280px;">
+  <img src="/images/ACStepanWordWorks_translator_4.jpeg" alt="Anne Stepan" style="width:100%;border-radius:4px;">
+  <p style="font-size:12px;color:#7a7a7a;text-align:center;margin-top:8px;letter-spacing:0.06em;text-transform:uppercase;">Anne Stepan · Principal Consultant</p>
+</div>
+
 ## The Linguist
 
 A PhD is a lot of things. It's a lot of work. It's a lot of "why am I doing this again?" And it isn't just a credential — it's a way of seeing. Mine trained me to find patterns in language at the level of cognition: how speakers make choices, what those choices reveal, and what gets lost when the analysis is wrong.
