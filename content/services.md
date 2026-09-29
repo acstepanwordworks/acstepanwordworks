@@ -36,4 +36,6 @@ Structured delivery of governance frameworks, workflow redesign, or crisis/polic
 
 ---
 
+*I also coach individual learners and Czech teachers on AI-assisted language learning. [Learn more →](/learning-czech/#learning-czech-with-ai)*
+
 <a href="/images/ac-stepan-wordworks-slick-sheet.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1a2744;color:#fff;padding:12px 24px;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;text-decoration:none;">Download Services Overview →</a>

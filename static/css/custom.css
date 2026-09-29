@@ -27,3 +27,8 @@ h1, h2, h3, h4 { font-family: 'Playfair Display', serif !important; color: var(-
     --entry: #ffffff;
     --border: #ddd9d2;
 }
+/* Wrap long lines in code boxes (used for copyable prompts) */
+.post-content pre code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}

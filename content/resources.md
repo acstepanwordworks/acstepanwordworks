@@ -12,6 +12,12 @@ I volunteer with the Texas Czech Legacy Project, which uses AI-assisted transcri
 
 **[Visit the Texas Czech page →](/texas-czech/)** for the recording of our National Museum of Language talk, the slides, and my writing on the project.
 
+## Learning Czech
+
+Apps, YouTube channels, and AI prompts that have helped me learn Czech, plus free materials for Czech teachers and tutors.
+
+**[See Learning Czech: Resources That Actually Work →](/learning-czech/)**
+
 ## Talks & Slides
 
 - **Texas Czech Legacy Project** — National Museum of Language Speaker Series, May 16, 2026 (with Dr. Lida Cope). [Watch the recording](https://www.youtube.com/watch?v=vE5K_FYQ34s) · [Slides (PDF)](/files/scaling-the-mission-2026.pdf)
