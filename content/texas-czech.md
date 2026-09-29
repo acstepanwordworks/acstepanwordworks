@@ -9,7 +9,7 @@ ShowPostNavLinks = false
 
 ![Texas Czech Legacy Project](/images/tclp-logo.png)
 
-Texas Czech is a variety of Czech brought to central Texas by Moravian and Bohemian immigrants in the 19th century and kept alive in farming communities for more than a hundred years, absorbing English along the way. Today most of its fluent speakers are in their 80s and 90s.
+Texas Czech is a variety of Czech brought to central Texas by immigrants, mostly from Moravia with some from Bohemia, in the 19th century and kept alive in farming communities for more than a hundred years, absorbing English along the way. Today most of its fluent speakers are in their 80s and 90s.
 
 The [Texas Czech Legacy Project](https://txczechproject.laits.utexas.edu/), directed by Dr. Lida Cope, documents and archives this dialect through oral-history recordings. I volunteer with the project as a language consultant, advisor, and analyst: helping shape the technical solutions and partnerships that are moving the project into its next phase, and using AI-assisted transcription and analysis to help the team work through a backlog of more than 450 hours of recordings, with human experts making every final call.
 

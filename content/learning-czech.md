@@ -45,6 +45,23 @@ An app for finding free speaking partners for language exchange: you help someon
 - **[Czech Time](https://www.youtube.com/@czechtime908)**: Lenka Suchomelová teaches Czech to foreigners and creates online courses, e-books, and other materials for intermediate and advanced learners. In her words: *"Chci, aby se moji studenti češtinu naučili a bavilo je to."* (I want my students to learn Czech and to enjoy it.) I've taken classes with her and can vouch for her expertise and her methods. See also her [website](https://czech-time.cz/) and [Facebook group](https://www.facebook.com/groups/993179781276330).
 - **[Slow Czech](https://www.youtube.com/@slowczech)**: Real, everyday Czech, the language people actually speak in the *hospoda*, the *kavárna*, and at family dinners, taught through stories and conversation rather than grammar drills. It's for learners who already know some Czech and want to start *speaking* it; complete beginners aren't the target audience. They don't list official levels, but my sense is that it suits roughly A1 to B2. They also offer tutoring through their [website](https://slowczech.com/).
 
+## Websites
+
+### Resource hubs
+
+- **[International Association of Teachers of Czech: Resources](https://iatc-org.com/resources/)**: A curated list from the IATC, including grammar references, an online Czech literary anthology, films for language teaching, pronunciation help, and links to Czech academic and cultural institutions. Useful for learners and teachers alike.
+
+### Reference and language tools
+
+- **[Ústav pro jazyk český AV ČR](https://ujc.cas.cz/cs/)**: The Czech Language Institute of the Czech Academy of Sciences, the authority on standard Czech. Its [Internetová jazyková příručka](https://prirucka.ujc.cas.cz/) is the place to settle spelling and grammar questions.
+- **[SEELRC Czech Reference Grammar](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=2)**: A free online reference grammar of Czech in English, from the Slavic and East European Language Resource Center, and a good place to look up forms and structures in depth.
+- **[Nechybujte.cz](https://www.nechybujte.cz/)**: A free Czech language portal from Lingea, with no registration needed: a dictionary with audio pronunciation, synonyms, spelling and grammar rules, a picture dictionary, and a tool that adds missing diacritics.
+- **[Czech National Corpus](https://wiki.korpus.cz/doku.php/pojmy:korpus)**: A corpus shows you how Czech is *actually* used, across millions of real texts. For advanced learners it's the best way to check which words go together and whether a phrase sounds natural. This page (in Czech) explains what a corpus is.
+
+### Czech dialects
+
+- **[Map of Czech dialects](https://txczechproject.laits.utexas.edu/sites/default/files/2021-01/mapa-nareci.jpg)**: Shows the dialect regions of the Czech Republic. Texas Czech grew mostly out of the Moravian dialects, with some Bohemian influence; see my [Texas Czech page](/texas-czech/).
+
 ## Learning Czech with AI
 
 Here are some of the ways I use AI in my own study:
@@ -101,6 +118,10 @@ Good free materials for teaching Czech as a foreign language can be hard to find
 
 - **[Levou zadní I, for teachers](https://ceskylevouzadni.cz/ucebnice/levou-zadni-i/pro-vyucujici/)**: A free lesson-by-lesson teacher manual for a course aimed at teenagers (roughly 14–18) working toward A1–A2, with target vocabulary and grammar, activities, and a linked online practice platform. The manual is free; check the terms for the student textbook before relying on it.
 - **[Manuál výuky českého jazyka pro cizince](https://icpraha.com/wp-content/uploads/2025/08/Manual_lektori_ICP.pdf)** (Integrační centrum Praha): An instructor handbook for teaching adults, built around a 100-hour beginner course that ends with preparation for the A1 exam. Useful for course planning, warm-ups (*jazykové rozcvičky*), and dictation ideas.
+
+### University course materials
+
+- **[David S. Danaher: syllabi and teaching materials](http://www.cokdybysme.net/syllabimaterials.html)**: Syllabi for four semesters of university Czech, plus courses on Václav Havel and Central European culture. The teaching materials include a Czech sounds tutorial, an outline of Czech grammar, case and conjugation reviews, materials to accompany the *Step by Step* textbooks, and study guides for Czech films (*Dark Blue World*, *Loves of a Blonde*, *Divided We Fall*) and Havel's play *Audience*, each matched to a semester level. Useful for teachers planning a course, and for self-learners who want a structured path.
 
 ### Supplements and samples
 
