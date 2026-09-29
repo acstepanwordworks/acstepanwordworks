@@ -2,6 +2,9 @@
 date = '2026-04-20T13:23:54-04:00'
 draft = false
 title = 'Services'
+description = 'Language and AI risk assessments, senior language advisory, and high-stakes communication and governance projects for organizations in multilingual, high-risk environments.'
+hideMeta = true
+hideDescription = true
 +++
 
 ## Language & AI Risk Assessment

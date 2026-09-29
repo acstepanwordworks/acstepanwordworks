@@ -2,6 +2,9 @@
 date = '2026-04-20T13:23:54-04:00'
 draft = false
 title = 'About'
+description = 'Anne Stepan, Ph.D. — Slavic linguist, former Defense Intelligence Senior Level executive, and founder of AC Stepan WordWorks, advising on the risks and benefits of AI for human language.'
+hideMeta = true
+hideDescription = true
 +++
 
 <div style="float:right;margin:0 0 2rem 3rem;max-width:280px;">

@@ -90,15 +90,13 @@ The stakes are personal, and they're urgent. Somewhere in those hundreds of hour
 
 The technology we're testing right now could mean those stories reach the people they belong to while there are still people alive who remember the voices telling them.
 
-## Come Hear the Full Story
+## Watch the Full Story
 
-**On May 16, 2 PM EDT (GMT-4), via Zoom**, Dr. Lida Cope and I will be presenting together on the Texas Czech Legacy Project — what it is, how it was built, and what we're learning about using AI to scale it. Dr. Cope will walk you through the project's history, its international partnerships, and the linguistic significance of what's being preserved. I'll take you inside the AI workflow: the tools, the results, the surprises, and the limits.
+*Update:* On May 16, 2026, Dr. Lida Cope and I presented the Texas Czech Legacy Project in the National Museum of Language's Speaker Series. Dr. Cope walked through the project's history, its international partnerships, and the linguistic significance of what's being preserved; I took the audience inside the AI workflow: the tools, the results, the surprises, and the limits.
 
-The event is part of the National Museum of Language's Speaker Series. For more information and to register, please visit: <a href="https://languagemuseum.org/speaker-series/" target="_blank" rel="noopener noreferrer">languagemuseum.org/speaker-series</a>
+**[Watch the recording and download the slides →](/texas-czech/)**
 
-If you're curious about language preservation, AI in cultural heritage work, or simply want to hear what a dying dialect sounds like — we'd love to see you there.
-
-And if you can't make it in May: this blog is just getting started. The deeper dives into the AI experiments, the tools, the costs, and the human-machine partnership are coming in the articles ahead.
+The deeper dives into the AI experiments, the tools, the costs, and the human-machine partnership are coming in the articles ahead.
 
 **The voices are waiting. Let's make sure they're heard.**
 

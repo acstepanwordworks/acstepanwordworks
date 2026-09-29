@@ -2,6 +2,9 @@
 date = '2026-04-20T13:23:54-04:00'
 draft = false
 title = 'Contact'
+description = 'Contact AC Stepan WordWorks to discuss language governance, AI in multilingual or regulated environments, or a project you’re weighing.'
+hideMeta = true
+hideDescription = true
 +++
 
 ## Let's Talk

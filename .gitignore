@@ -1,0 +1,10 @@
+# Never commit secrets or personal files
+*recovery-codes*
+*recovery_codes*
+*password*
+*secret*
+*.key
+.env
+
+# Hugo build lock
+.hugo_build.lock
